@@ -1,0 +1,21 @@
+{
+  "name": "learning-auto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngkhavy1007/learning-auto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngkhavy1007/learning-auto/issues"
+  },
+  "homepage": "https://github.com/ngkhavy1007/learning-auto#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.37.1"
+  }
+}
