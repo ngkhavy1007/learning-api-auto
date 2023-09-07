@@ -17,12 +17,16 @@
   "homepage": "https://github.com/ngkhavy1007/learning-auto#readme",
   "devDependencies": {
     "@playwright/test": "^1.37.1",
+<<<<<<< HEAD
     "allure-commandline": "^2.24.0",
     "allure-playwright": "^2.7.0"
   },
   "dependencies": {
+=======
+>>>>>>> 89f808d07b29093278b01ea83f98ea58c5946dae
     "dotenv": "^16.3.1",
     "lodash": "^4.17.21",
-    "moment-timezone": "^0.5.43"
+    "moment-timezone": "^0.5.43",
+    "playwright": "^1.37.1"
   }
 }
